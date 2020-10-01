@@ -5,4 +5,4 @@
 
 [Ejercicios 1](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Ejercicios1_Equipo7_Gpo002.pdf)
 
-[Resumen Técnicas]
+[Resumen Técnicas](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Resumenes_1815413.pdf)
