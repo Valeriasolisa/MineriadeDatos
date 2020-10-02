@@ -6,3 +6,5 @@
 [Ejercicios 1](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Ejercicios1_Equipo7_Gpo002.pdf)
 
 [Resumen Técnicas](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Resumenes_1815413.pdf)
+
+[Mapa Mental 2](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/MapaMental_2_1815413.pdf)
