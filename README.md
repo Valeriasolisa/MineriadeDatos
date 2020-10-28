@@ -13,3 +13,5 @@
 [Ejercicio de Base de datos](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/An%C3%A1lisisBD_1815413.pdf)
 
 [Ejercicios básicos Python](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/PythonBasico_1815413.ipynb)
+
+[Avance 1 Proyecto Integrador]
