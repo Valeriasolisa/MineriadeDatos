@@ -14,4 +14,4 @@
 
 [Ejercicios básicos Python](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/PythonBasico_1815413.ipynb)
 
-[Avance 1 Proyecto Integrador]
+[Avance 1 Proyecto Integrador] (https://github.com/gab2520/mineria_de_datos/blob/master/Avance1-PIA_Equipo12_002.pdf)
