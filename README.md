@@ -16,6 +16,6 @@
 
 [Avance 1 Proyecto Integrador](https://github.com/gab2520/mineria_de_datos/blob/master/Avance1-PIA_Equipo12_002.pdf)
 
-[P1 PREPARACIÓN](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P1-Preparacion%20de%20datos.ipynb)
+[P1 PREPARACIÓN](https://github.com/gab2520/mineria_de_datos/blob/master/preparacion%20de%20datos%20accidentes.ipynb)
 
 [P2 VISUALIZACIÓ](https://github.com/gab2520/mineria_de_datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20accidentes.ipynb)
