@@ -22,4 +22,5 @@
 
 ## **FASE 3**
 [Avance 2 Proyecto Integrador](https://github.com/gab2520/mineria_de_datos/blob/master/AvancePIA_II_002_12.ipynb)
+
 [PIA](https://github.com/gab2520/mineria_de_datos/blob/master/PIA_Equipo12_002.pd)
